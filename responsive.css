@@ -1,0 +1,81 @@
+@media screen and (max-width:375px) {
+    .mouse{
+        background-color: rgb(6, 243, 219);
+        height: 7px;
+        width: 7px;
+    }
+    .main{
+        padding: 0px;
+    }
+    .nav{
+        padding: 20px 20px
+    }
+    .heading h1{
+        font-size: 50px;
+        line-height: 1;
+    }
+    .heading .head1{
+        margin-left: 30px;
+    }
+    .middle{
+        padding: 25px;
+        font-size: 3.5vw;
+    }
+    .herofooter{
+        width: 100%;
+        padding-bottom: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left: 0px;
+    }
+    .mid{
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .mid .midHead{
+        height: 140px;
+    }
+    .mid .midHead h1{
+        font-size: 35px;
+        z-index: 999;
+    }
+    .mid .midHead img{
+        height: 150px;
+        width: 150px;
+    }
+    .aboutData{
+        margin-left:8px;
+        gap: 20px;
+        padding-right: 5px;
+        line-height:5vw;
+    }
+    .about .aboutData a{
+        padding: 7px 10px;
+        color: rgb(213, 25, 78);
+        font-weight: bold;
+        border: 1px solid rgb(213, 25, 78);
+    }
+    .subscribe{
+        padding-top: 0px;
+        margin-top: 70px;
+        margin-left: 30px;
+        line-height: 4.5vw;
+    }
+    .footer{
+        padding: 20px 5px;
+        font-size: 12px;
+        margin-top: 40px;
+    }
+    .footer .footerLeft{
+        gap:0px;
+    }
+    .footer .footerRight{
+        gap : 5px;
+        font-size: 10px;
+        padding: 0 10px;
+    }
+    .footer .footerRight a{
+        gap: 5px;
+    }
+}
